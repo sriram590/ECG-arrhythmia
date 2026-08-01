@@ -111,16 +111,13 @@ Add screenshots of:
 
 ---
 
-## 👩‍💻 Author
+## 👨‍💻 Author
 
-**Sirikonda Deepthi**
+**Sriram Nerella**
 
-GitHub: https://github.com/Deepthisirikonda
-
-LinkedIn: https://www.linkedin.com/in/sirikonda-deepthi-76b313362
-
----
-
+- GitHub: https://github.com/sriram590
+- LinkedIn: https://www.linkedin.com/in/sriram-nerella-638788365/
+  
 ## ⭐ Support
 
 If you found this project useful, please consider giving it a **⭐ Star** on GitHub.
